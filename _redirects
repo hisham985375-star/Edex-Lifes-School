@@ -1,2 +1,3 @@
-/apply  https://admission.edexlifeschool.com/  302
-/*      /index.html                            200
+/apply          https://admission.edexlifeschool.com/  302
+/habit-tracker  https://edex-habit-tracker.vercel.app/ 302
+/*              /index.html                            200
