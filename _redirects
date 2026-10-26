@@ -1,3 +1,5 @@
 /apply          https://admission.edexlifeschool.com/  302
 /habit-tracker  https://edex-habit-tracker.vercel.app/ 302
+/curriculum     /curiculam                             301
+/curiculum      /curiculam                             301
 /*              /index.html                            200

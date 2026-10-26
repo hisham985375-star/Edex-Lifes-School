@@ -1,4 +1,15 @@
 {
+  "headers": [
+    {
+      "source": "/sitemap.xml",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/xml; charset=utf-8"
+        }
+      ]
+    }
+  ],
   "redirects": [
     {
       "source": "/apply",
@@ -9,6 +20,16 @@
       "source": "/habit-tracker",
       "destination": "https://edex-habit-tracker.vercel.app/",
       "permanent": false
+    },
+    {
+      "source": "/curriculum",
+      "destination": "/curiculam",
+      "permanent": true
+    },
+    {
+      "source": "/curiculum",
+      "destination": "/curiculam",
+      "permanent": true
     }
   ],
   "rewrites": [
