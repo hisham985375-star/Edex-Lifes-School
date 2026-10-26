@@ -12,6 +12,11 @@
   ],
   "redirects": [
     {
+      "source": "/home",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/apply",
       "destination": "https://admission.edexlifeschool.com/",
       "permanent": false
