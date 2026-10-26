@@ -101,7 +101,7 @@ Please change the parent <Route path="${D}"> to <Route path="${D==="/"?"*":`${D}
         `,children:[S.jsxs("div",{className:"text-center lg:text-left self-center space-y-6 lg:space-y-8",children:[S.jsxs("h1",{className:`\r
               font-bold kumbh\r
               text-3xl sm:text-4xl md:text-5xl lg:text-6xl\r
-              leading-tight mt-10            `,children:["Ready to transform ",S.jsx("br",{className:"hidden sm:block"}),"your future?"]}),S.jsx(Ln,{to:"/apply",children:S.jsx("button",{className:`\r
+              leading-tight mt-10            `,children:["Ready to transform ",S.jsx("br",{className:"hidden sm:block"}),"your future?"]}),S.jsx("a",{href:"https://admission.edexlifeschool.com/",target:"_blank",rel:"noopener noreferrer",children:S.jsx("button",{className:`\r
                 bg-white text-black font-semibold\r
                 px-6 sm:px-8 py-4 md:py-5 lufga\r
                 rounded-md shadow-lg hover:bg-gray-200 transition\r
@@ -4312,7 +4312,7 @@ void main() {
     2xl:!text-[25px]\r
     text-[#F1F1F1]\r
     max-w-[1100px] mx-auto mt-4\r
-  `,children:"At EDEX Life School, we believe in learning by doing. Our 100-day Master Course is designed to make you 1% better every day, bridging the gap between theory and real-world application."}),S.jsx("div",{className:"mt-10 sm:mt-12 flex justify-center",children:S.jsx("a",{href:"https://docs.google.com/forms/d/e/1FAIpQLSclQsERFA723OJ4RXeSzGKrTmCmX2f3pfojNe37yRluZb73wg/viewform",target:"_blank",rel:"noopener noreferrer",className:`\r
+  `,children:"At EDEX Life School, we believe in learning by doing. Our 100-day Master Course is designed to make you 1% better every day, bridging the gap between theory and real-world application."}),S.jsx("div",{className:"mt-10 sm:mt-12 flex justify-center",children:S.jsx("a",{href:"https://admission.edexlifeschool.com/",target:"_blank",rel:"noopener noreferrer",className:`\r
     inline-block lufga \r
     leading-relaxed\r
     text-white/90 \r
