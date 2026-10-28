@@ -4279,7 +4279,7 @@ void main() {
             px-6 sm:px-8 md:px-10\r
             text-center \r
             mb-20 sm:mb-24\r
-          `,children:[S.jsxs("h1",{className:"space-y-3 sm:space-y-4",children:[S.jsx("div",{className:"flex justify-center mb-2 sm:mb-3",children:S.jsx("span",{className:"inline-flex items-center px-4 sm:px-6 py-1.5 sm:py-2 rounded-full bg-[#CDFF00]/15 border border-[#CDFF00]/50 text-[#CDFF00] font-bold text-sm sm:text-base md:text-xl tracking-widest uppercase backdrop-blur-sm shadow-[0_0_20px_rgba(205,255,0,0.2)]",children:"EDEX LIFE SCHOOL"})}),S.jsx("div",{className:`\r
+          `,children:[S.jsxs("h1",{className:"space-y-3 sm:space-y-4",children:[S.jsx("div",{className:`\r
                 lufga-bold\r
                 leading-none\r
                 text-[30px] xs:text-[36px] sm:text-[42px]\r
