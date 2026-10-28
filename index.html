@@ -9,9 +9,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- ✅ Primary SEO Meta Tags -->
-    <title>EDEX Life School | Official Website – Empowering Future Minds</title>
-    <meta name="description" content="EDEX Life School in Cherpulassery, Kerala provides holistic education and child development programs, fostering curiosity, creativity, and life confidence." />
-    <meta name="keywords" content="EDEX Life School, EDEX, EDEX Cherpulassery, kids learning, holistic education, child development, life school Kerala" />
+    <title>EDEX Life School | Entrepreneurship &amp; Leadership Programs</title>
+    <meta name="description" content="EDEX Life School offers practical entrepreneurship and leadership programs for graduates and professionals through a 100-day, hands-on experiential curriculum." />
+    <meta name="keywords" content="EDEX Life School, EDEX, entrepreneurship program, leadership training, business skills, career acceleration, experiential learning, Kerala" />
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
     <link rel="canonical" href="https://www.edexlifeschool.com/" />
 
@@ -20,14 +20,14 @@
     <meta property="og:site_name" content="EDEX Life School" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:url" content="https://www.edexlifeschool.com/" />
-    <meta property="og:title" content="EDEX Life School | Official Website – Empowering Future Minds" />
-    <meta property="og:description" content="EDEX Life School in Cherpulassery, Kerala provides holistic education and child development programs fostering curiosity, creativity, and confidence." />
+    <meta property="og:title" content="EDEX Life School | Entrepreneurship &amp; Leadership Programs" />
+    <meta property="og:description" content="EDEX Life School offers practical entrepreneurship and leadership programs for graduates and professionals through a 100-day, hands-on experiential curriculum." />
     <meta property="og:image" content="https://www.edexlifeschool.com/header.jpg" />
 
     <!-- ✅ Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="EDEX Life School | Official Website – Empowering Future Minds" />
-    <meta name="twitter:description" content="EDEX Life School in Cherpulassery, Kerala provides holistic education and child development programs fostering curiosity, creativity, and confidence." />
+    <meta name="twitter:title" content="EDEX Life School | Entrepreneurship &amp; Leadership Programs" />
+    <meta name="twitter:description" content="EDEX Life School offers practical entrepreneurship and leadership programs for graduates and professionals through a 100-day, hands-on experiential curriculum." />
     <meta name="twitter:image" content="https://www.edexlifeschool.com/header.jpg" />
 
     <!-- ✅ Schema.org Structured Data: EducationalOrganization -->
@@ -41,7 +41,7 @@
       "url": "https://www.edexlifeschool.com/",
       "logo": "https://www.edexlifeschool.com/favicon.png",
       "image": "https://www.edexlifeschool.com/header.jpg",
-      "description": "EDEX Life School provides holistic education and child development programs, fostering curiosity, creativity, and life confidence.",
+      "description": "EDEX Life School offers practical entrepreneurship and leadership programs, empowering graduates, entrepreneurs, and professionals through an intensive 100-day experiential curriculum.",
       "telephone": "+91 95397 52725",
       "email": "info@edexlifeschool.com",
       "address": {
@@ -113,8 +113,8 @@
           var path = window.location.pathname.replace(/\/+$/, '') || '/';
           var routes = {
             '/': {
-              title: 'EDEX Life School | Official Website – Empowering Future Minds',
-              desc: 'EDEX Life School in Cherpulassery, Kerala provides holistic education and child development programs, fostering curiosity, creativity, and life confidence.',
+              title: 'EDEX Life School | Entrepreneurship & Leadership Programs',
+              desc: 'EDEX Life School offers practical entrepreneurship and leadership programs for graduates and professionals through a 100-day, hands-on experiential curriculum.',
               canonical: 'https://www.edexlifeschool.com/'
             },
             '/about': {
@@ -142,8 +142,14 @@
           if (canonicalEl) canonicalEl.setAttribute('href', current.canonical);
           var ogTitleEl = document.querySelector('meta[property="og:title"]');
           if (ogTitleEl) ogTitleEl.setAttribute('content', current.title);
+          var ogDescEl = document.querySelector('meta[property="og:description"]');
+          if (ogDescEl) ogDescEl.setAttribute('content', current.desc);
           var ogUrlEl = document.querySelector('meta[property="og:url"]');
           if (ogUrlEl) ogUrlEl.setAttribute('content', current.canonical);
+          var twTitleEl = document.querySelector('meta[name="twitter:title"]');
+          if (twTitleEl) twTitleEl.setAttribute('content', current.title);
+          var twDescEl = document.querySelector('meta[name="twitter:description"]');
+          if (twDescEl) twDescEl.setAttribute('content', current.desc);
         }
 
         updateMetadata();

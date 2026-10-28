@@ -4279,12 +4279,12 @@ void main() {
             px-6 sm:px-8 md:px-10\r
             text-center \r
             mb-20 sm:mb-24\r
-          `,children:[S.jsxs("div",{className:"space-y-3 sm:space-y-4",children:[S.jsx("div",{className:`\r
+          `,children:[S.jsxs("h1",{className:"space-y-3 sm:space-y-4",children:[S.jsx("div",{className:"flex justify-center mb-2 sm:mb-3",children:S.jsx("span",{className:"inline-flex items-center px-4 sm:px-6 py-1.5 sm:py-2 rounded-full bg-[#CDFF00]/15 border border-[#CDFF00]/50 text-[#CDFF00] font-bold text-sm sm:text-base md:text-xl tracking-widest uppercase backdrop-blur-sm shadow-[0_0_20px_rgba(205,255,0,0.2)]",children:"EDEX LIFE SCHOOL"})}),S.jsx("div",{className:`\r
                 lufga-bold\r
                 leading-none\r
                 text-[30px] xs:text-[36px] sm:text-[42px]\r
                 md:text-[70px] lg:text-[55px] xl:text-[65px]\r
-              `,children:S.jsx("span",{className:"text-gray-300 px-3 sm:px-4 xl:text-[90px]",children:"WHERE"})}),S.jsxs("h1",{className:`\r
+              `,children:S.jsx("span",{className:"text-gray-300 px-3 sm:px-4 xl:text-[90px]",children:"WHERE"})}),S.jsxs("div",{className:`\r
                 lufga-bold flex flex-wrap \r
                 justify-center items-end gap-3 sm:gap-4\r
                 leading-none\r
@@ -4292,7 +4292,7 @@ void main() {
                 lufga-bold leading-none tracking-wide\r
                 text-[40px] xs:text-[48px] sm:text-[58px]\r
                 md:text-[80px] lg:text-[100px] xl:text-[70px]\r
-              `,children:S.jsx("h1",{className:"px-3 xl:text-[90px] text-[#CDFF00]",children:"LIFE"})})]}),S.jsxs("div",{className:`\r
+              `,children:S.jsx("span",{className:"px-3 xl:text-[90px] text-[#CDFF00]",children:"LIFE"})})]}),S.jsxs("div",{className:`\r
     mt-8 mb-6\r
     flex flex-row justify-center items-center\r
     whitespace-nowrap        /* prevents text from breaking into new lines */\r
@@ -4312,7 +4312,7 @@ void main() {
     2xl:!text-[25px]\r
     text-[#F1F1F1]\r
     max-w-[1100px] mx-auto mt-4\r
-  `,children:"At EDEX Life School, we believe in learning by doing. Our 100-day Master Course is designed to make you 1% better every day, bridging the gap between theory and real-world application."}),S.jsx("div",{className:"mt-10 sm:mt-12 flex justify-center",children:S.jsx("a",{href:"https://admission.edexlifeschool.com/",target:"_blank",rel:"noopener noreferrer",className:`\r
+  `,children:"At EDEX Life School, we believe in learning by doing. Our 100-day Master Course empowers graduates, entrepreneurs, and professionals through practical business projects, leadership training, and real investor pitches to bridge theory and real-world success."}),S.jsx("div",{className:"mt-10 sm:mt-12 flex justify-center",children:S.jsx("a",{href:"https://admission.edexlifeschool.com/",target:"_blank",rel:"noopener noreferrer",className:`\r
     inline-block lufga \r
     leading-relaxed\r
     text-white/90 \r
@@ -4405,7 +4405,7 @@ void main() {
                 w-auto \r
                 object-contain\r
                 object-bottom\r
-              `})})]})]})}),KA="/assets/card1-Dtx_bjd1.jpg",QA="/assets/img5-BPbZUhXZ.jpg",JA="/assets/card3-OrJUhIp7.jpg",$A="/assets/card4-DGlIW8RY.jpg",ew="/assets/card5-f2PicO3z.jpg",ih=[{id:"01",img:KA,title:"14 Skills",desc:"Master essential business and professional skills through hands on learning."},{id:"02",img:QA,title:"Immersive Learning Experience",desc:"Engage in 14 weeks of structured learning for progressive growth and industry relevance."},{id:"03",img:JA,title:"Real-Life Business Projects",desc:"Gain practical experience by working on real business challenges."},{id:"04",img:$A,title:"Expert Talks",desc:"Learn from top industry leaders and successful entrepreneurs during 14 insightful sessions."},{id:"05",img:ew,title:"Strategic Games",desc:"Develop leadership, problem-solving, and negotiation skills through high impact simulations."}];function tw(){return S.jsxs("section",{className:"bg-black text-white w-full py-16 sm:py-20 px-4 sm:px-6 lg:px-20",children:[S.jsx("p",{className:`\r
+              `})})]})]})}),KA="/assets/card1-Dtx_bjd1.jpg",QA="/assets/img5-BPbZUhXZ.jpg",JA="/assets/card3-OrJUhIp7.jpg",$A="/assets/card4-DGlIW8RY.jpg",ew="/assets/card5-f2PicO3z.jpg",ih=[{id:"01",img:KA,title:"14 Skills",desc:"Master essential business and professional skills through hands on learning."},{id:"02",img:QA,title:"Immersive Learning Experience",desc:"Engage in 14 weeks of structured learning for progressive growth and industry relevance."},{id:"03",img:JA,title:"Real-Life Business Projects",desc:"Gain practical experience by working on real business challenges."},{id:"04",img:$A,title:"Expert Talks",desc:"Learn from top industry leaders and successful entrepreneurs during 14 insightful sessions."},{id:"05",img:ew,title:"Strategic Games",desc:"Develop leadership, problem-solving, and negotiation skills through high impact simulations."}];function tw(){return S.jsxs("section",{className:"bg-black text-white w-full py-16 sm:py-20 px-4 sm:px-6 lg:px-20",children:[S.jsx("h2",{className:`\r
     lufga-bold \r
     lg:px-5\r
     text-3xl          /* mobile */\r
@@ -4451,7 +4451,7 @@ lg:w-[450px] xl:w-[500px] 2xl:w-[550px]\r
           flex flex-col justify-center\r
           transition-all duration-500 \r
           group-hover:bg-[#CEFF00]\r
-        `,children:[S.jsx("h1",{className:`\r
+        `,children:[S.jsx("h3",{className:`\r
             font-bold lufga-bold\r
             text-xl sm:text-2xl md:text-3xl lg:text-4xl\r
             leading-tight\r
@@ -4483,7 +4483,7 @@ lg:w-[450px] xl:w-[500px] 2xl:w-[550px]\r
           `,children:[S.jsx("img",{src:np,className:"absolute inset-0 w-full h-full object-cover rounded-full",alt:"Scroll"}),S.jsxs("svg",{className:"w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 text-white z-10",fill:"none",stroke:"currentColor",strokeWidth:"3",children:[S.jsx("line",{x1:"7",y1:"12",x2:"17",y2:"12"}),S.jsx("polyline",{points:"12 7 17 12 12 17"})]})]}),S.jsxs("div",{className:`\r
     pl-4 xs:pl-5 sm:pl-6 md:pl-8 lg:pl-10 xl:pl-14\r
     pr-6 xs:pr-8 sm:pr-10 md:pr-14 lg:pr-20 xl:pr-28\r
-  `,children:[S.jsx("h1",{className:`\r
+  `,children:[S.jsx("h2",{className:`\r
       font-bold lufga-bold tracking-tight \r
       text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl\r
       leading-tight sm:leading-snug\r
@@ -4510,7 +4510,7 @@ lg:w-[450px] xl:w-[500px] 2xl:w-[550px]\r
     /* NEW Right & Left responsive padding */\r
     pr-6 xs:pr-8 sm:pr-10 md:pr-14 lg:pr-20 xl:pr-28\r
     pl-4 xs:pl-5 sm:pl-6 md:pl-8 lg:pl-10 xl:pl-14\r
-  `,children:dw.map((c,f)=>S.jsx(hw,{person:c},f))})]})})}const ah="/assets/img1-_9GAqcvi.jpg",rh="/assets/img2-DgQyfBki.jpg",sh="/assets/img3-DX31XClF.jpg",oh="/assets/img4-DjFxAIon.jpg",lh="/assets/img5-BPbZUhXZ.jpg",ch="/assets/img6-CnLRK1Lt.jpg";function mw(){const s=ue.useRef(null),[e,i]=ue.useState(0),r=[[ah,rh,sh,oh,lh,ch],[sh,oh,ah,lh,rh,ch],[lh,rh,sh,oh,ch,ah]];ue.useEffect(()=>{const f=()=>{s.current&&s.current.scrollTo({left:e*s.current.offsetWidth,behavior:"instant"})};return window.addEventListener("resize",f),()=>window.removeEventListener("resize",f)},[e]);const l=()=>{const f=s.current,h=Math.round(f.scrollLeft/f.offsetWidth);i(h)},c=f=>{const h=s.current;if(!h)return;const m=Math.max(0,Math.min(f,r.length-1));h.scrollTo({left:m*h.offsetWidth,behavior:"smooth"}),i(m)};return S.jsxs("section",{className:"relative bg-black text-white w-full pt-10 lg:px-5 overflow-hidden lg:p-5 md:p-3",children:[S.jsxs("div",{className:"max-w-[1200px] px-4  ",children:[S.jsx("h1",{className:"text-5xl sm:text-6xl md:text-8xl lg:text-[90px] lufga-bold leading-tight mb-4",children:"Meet Our community"}),S.jsx("p",{className:"text-white max-w-[650px] text-base sm:text-lg lg:text-xl mb-10 lufga-light",children:"Discover snapshots of learning, teamwork, and real-world impact from our vibrant community."})]}),S.jsxs("div",{className:"absolute right-6 top-20 px-15 hidden md:flex items-center gap-4 z-30",children:[S.jsxs("button",{onClick:()=>c(e-1),className:"relative w-[60px] h-[60px] rounded-full flex items-center justify-center",children:[S.jsx("img",{src:np,className:"absolute inset-0 w-full h-full object-cover rounded-full rotate-180"}),S.jsxs("svg",{className:"absolute w-6 h-6 text-white rotate-180",fill:"none",stroke:"white",strokeWidth:"3",children:[S.jsx("line",{x1:"7",y1:"12",x2:"17",y2:"12"}),S.jsx("polyline",{points:"12 7 17 12 12 17"})]})]}),S.jsxs("button",{onClick:()=>c(e+1),className:"relative w-[60px] h-[60px] rounded-full flex items-center justify-center",children:[S.jsx("img",{src:np,className:"absolute inset-0 w-full h-full object-cover rounded-full"}),S.jsxs("svg",{className:"absolute w-6 h-6 text-white",fill:"none",stroke:"white",strokeWidth:"3",children:[S.jsx("line",{x1:"7",y1:"12",x2:"17",y2:"12"}),S.jsx("polyline",{points:"12 7 17 12 12 17"})]})]})]}),S.jsx("div",{ref:s,onScroll:l,className:"w-full overflow-x-hidden no-scrollbar scroll-smooth mt-10 snap-x snap-mandatory",style:{WebkitOverflowScrolling:"touch"},children:S.jsx("div",{className:"flex",children:r.map((f,h)=>S.jsx("div",{className:"snap-start shrink-0 w-full md:max-w-[1200px] mx-auto px-4",style:{minWidth:"100%"},children:S.jsxs("div",{className:`\r
+  `,children:dw.map((c,f)=>S.jsx(hw,{person:c},f))})]})})}const ah="/assets/img1-_9GAqcvi.jpg",rh="/assets/img2-DgQyfBki.jpg",sh="/assets/img3-DX31XClF.jpg",oh="/assets/img4-DjFxAIon.jpg",lh="/assets/img5-BPbZUhXZ.jpg",ch="/assets/img6-CnLRK1Lt.jpg";function mw(){const s=ue.useRef(null),[e,i]=ue.useState(0),r=[[ah,rh,sh,oh,lh,ch],[sh,oh,ah,lh,rh,ch],[lh,rh,sh,oh,ch,ah]];ue.useEffect(()=>{const f=()=>{s.current&&s.current.scrollTo({left:e*s.current.offsetWidth,behavior:"instant"})};return window.addEventListener("resize",f),()=>window.removeEventListener("resize",f)},[e]);const l=()=>{const f=s.current,h=Math.round(f.scrollLeft/f.offsetWidth);i(h)},c=f=>{const h=s.current;if(!h)return;const m=Math.max(0,Math.min(f,r.length-1));h.scrollTo({left:m*h.offsetWidth,behavior:"smooth"}),i(m)};return S.jsxs("section",{className:"relative bg-black text-white w-full pt-10 lg:px-5 overflow-hidden lg:p-5 md:p-3",children:[S.jsxs("div",{className:"max-w-[1200px] px-4  ",children:[S.jsx("h2",{className:"text-5xl sm:text-6xl md:text-8xl lg:text-[90px] lufga-bold leading-tight mb-4",children:"Meet Our community"}),S.jsx("p",{className:"text-white max-w-[650px] text-base sm:text-lg lg:text-xl mb-10 lufga-light",children:"Discover snapshots of learning, teamwork, and real-world impact from our vibrant community."})]}),S.jsxs("div",{className:"absolute right-6 top-20 px-15 hidden md:flex items-center gap-4 z-30",children:[S.jsxs("button",{onClick:()=>c(e-1),className:"relative w-[60px] h-[60px] rounded-full flex items-center justify-center",children:[S.jsx("img",{src:np,className:"absolute inset-0 w-full h-full object-cover rounded-full rotate-180"}),S.jsxs("svg",{className:"absolute w-6 h-6 text-white rotate-180",fill:"none",stroke:"white",strokeWidth:"3",children:[S.jsx("line",{x1:"7",y1:"12",x2:"17",y2:"12"}),S.jsx("polyline",{points:"12 7 17 12 12 17"})]})]}),S.jsxs("button",{onClick:()=>c(e+1),className:"relative w-[60px] h-[60px] rounded-full flex items-center justify-center",children:[S.jsx("img",{src:np,className:"absolute inset-0 w-full h-full object-cover rounded-full"}),S.jsxs("svg",{className:"absolute w-6 h-6 text-white",fill:"none",stroke:"white",strokeWidth:"3",children:[S.jsx("line",{x1:"7",y1:"12",x2:"17",y2:"12"}),S.jsx("polyline",{points:"12 7 17 12 12 17"})]})]})]}),S.jsx("div",{ref:s,onScroll:l,className:"w-full overflow-x-hidden no-scrollbar scroll-smooth mt-10 snap-x snap-mandatory",style:{WebkitOverflowScrolling:"touch"},children:S.jsx("div",{className:"flex",children:r.map((f,h)=>S.jsx("div",{className:"snap-start shrink-0 w-full md:max-w-[1200px] mx-auto px-4",style:{minWidth:"100%"},children:S.jsxs("div",{className:`\r
   grid \r
   grid-cols-2              /* ALWAYS 2 columns on small screens */\r
   md:grid-cols-3           /* 3 columns from md */\r
@@ -4575,13 +4575,13 @@ lg:w-[450px] xl:w-[500px] 2xl:w-[550px]\r
                       0 0 0 1 0`,result:"green"}),S.jsx("feDisplacementMap",{ref:k,in:"SourceGraphic",in2:"map",id:"bluechannel",result:"dispBlue"}),S.jsx("feColorMatrix",{in:"dispBlue",type:"matrix",values:`0 0 0 0 0\r
                       0 0 0 0 0\r
                       0 0 1 0 0\r
-                      0 0 0 1 0`,result:"blue"}),S.jsx("feBlend",{in:"red",in2:"green",mode:"screen",result:"rg"}),S.jsx("feBlend",{in:"rg",in2:"blue",mode:"screen",result:"output"}),S.jsx("feGaussianBlur",{ref:te,in:"output",stdDeviation:"0.7"})]})})}),S.jsx("div",{className:"w-full h-full flex items-start justify-start p-2 rounded-[inherit] relative z-10",children:s})]})},vw="/assets/wave-CQG0QxVv.png",_w="/assets/img2-YpoeqUph.jpg";function bw(){const s=["Graduates seeking practical experience.","Entrepreneurs aiming to building stronger business acumen.","Professionals looking to enhance leadership and decision-making skills.","Career Fast-Trackers who want to accelerate their career growth."];return S.jsx("div",{className:"bg-black",children:S.jsxs("section",{className:`\r
+                      0 0 0 1 0`,result:"blue"}),S.jsx("feBlend",{in:"red",in2:"green",mode:"screen",result:"rg"}),S.jsx("feBlend",{in:"rg",in2:"blue",mode:"screen",result:"output"}),S.jsx("feGaussianBlur",{ref:te,in:"output",stdDeviation:"0.7"})]})})}),S.jsx("div",{className:"w-full h-full flex items-start justify-start p-2 rounded-[inherit] relative z-10",children:s})]})},vw="/assets/wave-CQG0QxVv.png",_w="/assets/img2-YpoeqUph.jpg";function bw(){const s=["Graduates seeking practical experience.","Entrepreneurs aiming to build stronger business acumen.","Professionals looking to enhance leadership and decision-making skills.","Career Fast-Trackers who want to accelerate their career growth."];return S.jsx("div",{className:"bg-black",children:S.jsxs("section",{className:`\r
           w-full bg-[#1F1F1F] text-white \r
           px-6 lg:px-20 py-16\r
           rounded-t-[50px]\r
           border-t-2 border-gray-500 \r
           overflow-visible\r
-        `,children:[S.jsx("h1",{className:"lufga-bold font-semibold text-[40px] leading-[100%] mb-10",children:"Who is this for ?"}),S.jsxs("div",{className:"grid grid-cols-1 lg:grid-cols-3 gap-6",children:[S.jsxs("div",{className:"col-span-2 relative space-y-6 mt-5",children:[S.jsx("img",{src:vw,className:"absolute inset-0 w-full h-[500px] object-cover opacity-60 pointer-events-none"}),S.jsx("div",{className:"relative space-y-6",children:s.map((e,i)=>{const r=e.split(" ")[0],l=e.replace(r,"");return S.jsx(gw,{width:"100%",height:"auto",borderRadius:18,className:`\r
+        `,children:[S.jsx("h2",{className:"lufga-bold font-semibold text-[40px] leading-[100%] mb-10",children:"Who is this for ?"}),S.jsxs("div",{className:"grid grid-cols-1 lg:grid-cols-3 gap-6",children:[S.jsxs("div",{className:"col-span-2 relative space-y-6 mt-5",children:[S.jsx("img",{src:vw,className:"absolute inset-0 w-full h-[500px] object-cover opacity-60 pointer-events-none"}),S.jsx("div",{className:"relative space-y-6",children:s.map((e,i)=>{const r=e.split(" ")[0],l=e.replace(r,"");return S.jsx(gw,{width:"100%",height:"auto",borderRadius:18,className:`\r
     px-6 py-2\r
     shadow-[0_8px_25px_rgba(0,0,0,0.25)]\r
     cursor-pointer border-t-2\r
@@ -4596,7 +4596,7 @@ lg:w-[450px] xl:w-[500px] 2xl:w-[550px]\r
                   w-[60px] h-[60px] bg-white text-2xl\r
                   rounded-2xl flex items-center justify-center \r
                   border border-black/20 text-black font-semibold\r
-                `,children:"➜"})]})]})]})]})})}function yw(){ue.useEffect(()=>{cp.init({duration:900,easing:"ease-out",once:!1})},[]);const s=[{id:1,title:"Mental Development",desc:"Develop critical thinking, adaptability, and leadership skills."},{id:2,title:"Emotional Development",desc:"Build resilience, empathy, and strong interpersonal skills."},{id:3,title:"Physical Development",desc:"Enhance wellness and energy management."},{id:4,title:"Intellectual Development",desc:"Cultivate creativity, digital fluency, and financial literacy."}];return S.jsxs("div",{className:"w-full bg-black text-white py-20 px-6 sm:px-8 md:px-12 lg:px-14 xl:px-20",children:[S.jsx("h1",{className:"text-3xl xs:text-4xl sm:text-5xl md:text-6xl lg:text-7xl lufga-bold",children:"Focus Areas"}),S.jsx("div",{className:`\r
+                `,children:"➜"})]})]})]})]})})}function yw(){ue.useEffect(()=>{cp.init({duration:900,easing:"ease-out",once:!1})},[]);const s=[{id:1,title:"Mental Development",desc:"Develop critical thinking, adaptability, and leadership skills."},{id:2,title:"Emotional Development",desc:"Build resilience, empathy, and strong interpersonal skills."},{id:3,title:"Physical Development",desc:"Enhance wellness and energy management."},{id:4,title:"Intellectual Development",desc:"Cultivate creativity, digital fluency, and financial literacy."}];return S.jsxs("div",{className:"w-full bg-black text-white py-20 px-6 sm:px-8 md:px-12 lg:px-14 xl:px-20",children:[S.jsx("h2",{className:"text-3xl xs:text-4xl sm:text-5xl md:text-6xl lg:text-7xl lufga-bold",children:"Focus Areas"}),S.jsx("div",{className:`\r
           grid \r
           grid-cols-2                 /* Always 2 cards on mobile */\r
           sm:grid-cols-2\r
