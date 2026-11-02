@@ -17,3 +17,26 @@
   color: #CDFF00 !important;
   padding-left: 0.25rem !important;
 }
+
+/* Footer Logo Sizing */
+.footer-logo {
+  width: 170px !important;
+  max-width: 100% !important;
+  height: auto !important;
+  object-fit: contain !important;
+}
+@media (min-width: 640px) {
+  .footer-logo {
+    width: 195px !important;
+  }
+}
+@media (min-width: 768px) {
+  .footer-logo {
+    width: 215px !important;
+  }
+}
+@media (min-width: 1024px) {
+  .footer-logo {
+    width: 235px !important;
+  }
+}
