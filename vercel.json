@@ -22,6 +22,11 @@
       "permanent": false
     },
     {
+      "source": "/admission",
+      "destination": "https://admission.edexlifeschool.com/",
+      "permanent": false
+    },
+    {
       "source": "/habit-tracker",
       "destination": "https://edex-habit-tracker.vercel.app/",
       "permanent": false
