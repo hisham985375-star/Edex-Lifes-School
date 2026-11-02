@@ -40,3 +40,149 @@
     width: 235px !important;
   }
 }
+
+
+/* EGX 100 Testimonials Section */
+.egx-section {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 80px 16px;
+  position: relative;
+  width: 100%;
+}
+@media (min-width: 640px) {
+  .egx-section {
+    padding: 96px 24px;
+  }
+}
+@media (min-width: 1024px) {
+  .egx-section {
+    padding: 110px 48px;
+  }
+}
+.egx-container {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.egx-header {
+  color: #CEFF00;
+  font-size: clamp(1.5rem, 4vw, 2.25rem);
+  font-weight: 700;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  padding-bottom: 16px;
+  margin-bottom: 36px;
+  text-align: left;
+  letter-spacing: -0.02em;
+}
+.egx-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+}
+@media (min-width: 640px) {
+  .egx-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 28px;
+  }
+}
+@media (min-width: 1024px) {
+  .egx-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+  }
+}
+.egx-card {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  overflow: hidden;
+  transition: border-color 0.3s ease, transform 0.3s ease;
+}
+.egx-card:hover {
+  border-color: #CEFF00;
+}
+.egx-media-wrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background-color: #000000;
+  cursor: pointer;
+  overflow: hidden;
+}
+.egx-thumb {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+  display: block;
+}
+.egx-media-wrapper:hover .egx-thumb {
+  transform: scale(1.05);
+}
+.egx-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.egx-play-btn {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background-color: #CEFF00;
+  color: #161616;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 16px rgba(206, 255, 0, 0.35);
+  pointer-events: none;
+  transition: transform 0.2s ease;
+}
+.egx-media-wrapper:hover .egx-play-btn {
+  transform: scale(1.1);
+}
+.egx-card-info {
+  padding: 18px 20px 22px 20px;
+  text-align: left;
+}
+.egx-card-name {
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: #ffffff;
+  line-height: 1.3;
+}
+.egx-card-place {
+  font-size: 0.95rem;
+  color: rgba(255, 255, 255, 0.7);
+  margin-top: 4px;
+  line-height: 1.4;
+}
+.egx-cta-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 48px;
+}
+.egx-cta-btn {
+  background-color: #CEFF00;
+  color: #161616;
+  font-weight: 700;
+  font-size: 1.05rem;
+  padding: 14px 34px;
+  border-radius: 12px;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 14px rgba(206, 255, 0, 0.2);
+}
+.egx-cta-btn:hover {
+  background-color: #b8e600;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(206, 255, 0, 0.35);
+  color: #000000;
+}
